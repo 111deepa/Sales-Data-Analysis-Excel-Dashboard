@@ -31,7 +31,7 @@ product-wise, monthly, and regional performance.
 
 ## 📷 Screenshots
 
-
+https://github.com/111deepa/Sales-Data-Analysis-Excel-Dashboard/blob/main/dashboard.png
 
 ---
 
